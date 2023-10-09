@@ -42,7 +42,8 @@ DefaultValue=Windows Default
 
 [Control Panel\Desktop]
 Wallpaper=%SystemRoot%\Web\Wallpaper\CEP\squares_212x240.png
-Pattern=
+TileWallpaper=0
+WallpaperStyle=0
 MultimonBackgrounds=0
 PicturePosition=0
 WallpaperWriteTime=133412802956006201
